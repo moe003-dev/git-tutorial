@@ -1,5 +1,5 @@
 // Code your testbench here
-// or browse Examples
+// or browse Example
 // Code your testbench here
 // or browse Examples
 module tb;
